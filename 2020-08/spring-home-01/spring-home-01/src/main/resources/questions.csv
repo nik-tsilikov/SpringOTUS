@@ -1,0 +1,7 @@
+Question,CorrectIndex,0,Option A,1,Option B,2,Option C,3,Option D,4,Option E
+"What does CPU stand for?",0,0,"Central Processing Unit",1,"Computer Personal Unit",2,"Central Process Utility",3,"Control Processing Unit",4,"Core Performance Unit"
+"Which data structure uses LIFO (Last In First Out) principle?",2,0,"Queue",1,"Array",2,"Stack",3,"Linked List",4,"Tree"
+"What is the correct way to declare a variable in Python?",1,0,"int x = 5",1,"x = 5",2,"var x = 5",3,"let x = 5",4,"x := 5"
+"Which of the following is a valid IP address version 4?",1,0,"2001:0db8:85a3::8a2e:0370:7334",1,"192.168.1.1",2,"256.100.50.25",3,"192.168.1",4,"http://192.168.1.1"
+"What does HTTP stand for?",0,0,"HyperText Transfer Protocol",1,"HighTech Transfer Process",2,"Hyper Transfer Text Program",3,"HighText Transmission Protocol",4,"HyperText Transmission Process"
+"Which symbol is used to write a single-line comment in Python?",2,0,"//",1,"/*",2,"#",3,"--",4,"%"
