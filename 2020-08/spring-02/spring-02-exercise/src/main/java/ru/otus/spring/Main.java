@@ -7,7 +7,6 @@ import ru.otus.spring.domain.Person;
 import ru.otus.spring.service.PersonService;
 
 @ComponentScan
-//@Configuration
 public class Main {
 
     public static void main(String[] args) {
